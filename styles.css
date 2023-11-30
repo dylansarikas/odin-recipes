@@ -1,1 +1,12 @@
 /* styles.css */
+
+.heading {
+    color: #d703fc;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Trebuchet MS", Georgia;
+}
+
+.heading.pizza {
+    background-color: black;
+}
