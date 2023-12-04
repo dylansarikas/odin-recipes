@@ -5,8 +5,26 @@
     font-size: 48px;
     font-weight: bold;
     font-family: "Trebuchet MS", Georgia;
+    text-align: center;
+}
+
+.heading.title{
+    text-align: right;
+    border-bottom: 8px;
+    border-color: aquamarine;
 }
 
 .heading.pizza {
     background-color: black;
+}
+
+.ingredients {
+    margin: 8px;
+    color: red;
+    background-color: darkseagreen;
+}
+
+.steps {
+    padding: 12px;
+    background-color: lightskyblue;
 }
